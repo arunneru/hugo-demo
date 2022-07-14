@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>python on My New Hugo Site</title>
-    <link>/tags/python/</link>
-    <description>Recent content in python on My New Hugo Site</description>
+    <title>python on Arun Neru</title>
+    <link>www.arunneru.com/tags/python/</link>
+    <description>Recent content in python on Arun Neru</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 Jul 2022 19:52:12 +0100</lastBuildDate><atom:link href="/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Jul 2022 19:52:12 +0100</lastBuildDate><atom:link href="www.arunneru.com/tags/python/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First</title>
-      <link>/posts/first/</link>
+      <link>www.arunneru.com/posts/first/</link>
       <pubDate>Wed, 13 Jul 2022 19:52:12 +0100</pubDate>
       
-      <guid>/posts/first/</guid>
+      <guid>www.arunneru.com/posts/first/</guid>
       <description>This is the First post</description>
     </item>
     

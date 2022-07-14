@@ -1,45 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on My New Hugo Site</title>
-    <link>/tags/</link>
-    <description>Recent content in Tags on My New Hugo Site</description>
+    <title>Tags on Arun Neru</title>
+    <link>www.arunneru.com/tags/</link>
+    <description>Recent content in Tags on Arun Neru</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 Jul 2022 19:52:12 +0100</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Jul 2022 19:52:12 +0100</lastBuildDate><atom:link href="www.arunneru.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>notes</title>
-      <link>/tags/notes/</link>
+      <link>www.arunneru.com/tags/notes/</link>
       <pubDate>Wed, 13 Jul 2022 19:52:12 +0100</pubDate>
       
-      <guid>/tags/notes/</guid>
+      <guid>www.arunneru.com/tags/notes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>python</title>
-      <link>/tags/python/</link>
+      <link>www.arunneru.com/tags/python/</link>
       <pubDate>Wed, 13 Jul 2022 19:52:12 +0100</pubDate>
       
-      <guid>/tags/python/</guid>
+      <guid>www.arunneru.com/tags/python/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R</title>
-      <link>/tags/r/</link>
+      <link>www.arunneru.com/tags/r/</link>
       <pubDate>Wed, 13 Jul 2022 19:52:12 +0100</pubDate>
       
-      <guid>/tags/r/</guid>
+      <guid>www.arunneru.com/tags/r/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tutorial</title>
-      <link>/tags/tutorial/</link>
+      <link>www.arunneru.com/tags/tutorial/</link>
       <pubDate>Wed, 13 Jul 2022 19:52:12 +0100</pubDate>
       
-      <guid>/tags/tutorial/</guid>
+      <guid>www.arunneru.com/tags/tutorial/</guid>
       <description></description>
     </item>
     

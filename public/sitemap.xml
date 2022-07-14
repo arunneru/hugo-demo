@@ -2,39 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/categories/</loc>
+    <loc>www.arunneru.com/</loc>
     <lastmod>2022-07-13T19:52:12+01:00</lastmod>
   </url><url>
-    <loc>/posts/first/</loc>
+    <loc>www.arunneru.com/categories/</loc>
     <lastmod>2022-07-13T19:52:12+01:00</lastmod>
   </url><url>
-    <loc>/categories/mathematics/</loc>
+    <loc>www.arunneru.com/posts/first/</loc>
     <lastmod>2022-07-13T19:52:12+01:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>www.arunneru.com/categories/mathematics/</loc>
     <lastmod>2022-07-13T19:52:12+01:00</lastmod>
   </url><url>
-    <loc>/tags/notes/</loc>
+    <loc>www.arunneru.com/tags/notes/</loc>
     <lastmod>2022-07-13T19:52:12+01:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
+    <loc>www.arunneru.com/posts/</loc>
     <lastmod>2022-07-13T19:52:12+01:00</lastmod>
   </url><url>
-    <loc>/tags/python/</loc>
+    <loc>www.arunneru.com/tags/python/</loc>
     <lastmod>2022-07-13T19:52:12+01:00</lastmod>
   </url><url>
-    <loc>/tags/r/</loc>
+    <loc>www.arunneru.com/tags/r/</loc>
     <lastmod>2022-07-13T19:52:12+01:00</lastmod>
   </url><url>
-    <loc>/posts/second/</loc>
+    <loc>www.arunneru.com/posts/second/</loc>
     <lastmod>2022-07-13T19:52:12+01:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>www.arunneru.com/tags/</loc>
     <lastmod>2022-07-13T19:52:12+01:00</lastmod>
   </url><url>
-    <loc>/tags/tutorial/</loc>
+    <loc>www.arunneru.com/tags/tutorial/</loc>
     <lastmod>2022-07-13T19:52:12+01:00</lastmod>
   </url><url>
-    <loc>/archives/</loc>
+    <loc>www.arunneru.com/archives/</loc>
   </url>
 </urlset>
