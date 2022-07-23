@@ -4,6 +4,9 @@ title: Arun Neru
 theme: paperesque
 
 params:
+  homeInfoParams:
+    Title: My blog is here
+    Content: Posts on technology and storytelling
   menu:
     - name: blog
       url: posts/
